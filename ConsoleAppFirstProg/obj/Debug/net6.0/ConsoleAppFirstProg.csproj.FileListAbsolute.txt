@@ -1,0 +1,15 @@
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\bin\Debug\net6.0\ConsoleAppFirstProg.exe
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\bin\Debug\net6.0\ConsoleAppFirstProg.deps.json
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\bin\Debug\net6.0\ConsoleAppFirstProg.runtimeconfig.json
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\bin\Debug\net6.0\ConsoleAppFirstProg.dll
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\bin\Debug\net6.0\ConsoleAppFirstProg.pdb
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.csproj.AssemblyReference.cache
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.AssemblyInfoInputs.cache
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.AssemblyInfo.cs
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.csproj.CoreCompileInputs.cache
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.dll
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\refint\ConsoleAppFirstProg.dll
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.pdb
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ConsoleAppFirstProg.genruntimeconfig.cache
+C:\Users\tsimp\source\repos\ConsoleAppFirstProg\ConsoleAppFirstProg\obj\Debug\net6.0\ref\ConsoleAppFirstProg.dll
